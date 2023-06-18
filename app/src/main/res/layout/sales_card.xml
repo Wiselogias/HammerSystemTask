@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/salesView"
+    android:layout_width="332dp"
+    android:layout_height="144dp"
+    android:scaleType="centerInside"
+    android:src="@drawable/sale_one" />
+

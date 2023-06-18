@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HammerSystemTask</string>
+    <string name="default_name">Ветчина и грибы</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Profile</string>
+    <string name="order">Order</string>
+    <string name="pizza">Пицца</string>
+    <string name="permissionsText">Выдайте разрешения для корректной работы приложения\n</string>
+    <string name="permissionsAlertTitle">Внимание\n</string>
+</resources>
